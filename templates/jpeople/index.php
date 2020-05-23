@@ -4,10 +4,9 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<?php echo $this->language; ?>" lang="<?php echo $this->language; ?>" dir="<?php echo $this->direction; ?>">
 <head>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,700&display=swap" rel="stylesheet">
 <?php require(dirname(__FILE__)."/modules/req_css.php");?>
 <?php require(dirname(__FILE__)."/functions.php");?>
-
-
 </head>
 <body class="background">
 		<div id="header-w">
