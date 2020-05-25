@@ -19,3 +19,9 @@ Acesso Administrador: http://localhost:8080/administrator
 
 Usuario: AdminstradorTecWeb
 
+# JCE Editor
+
+Para edicao do artigo utilizamos o JCE Editor por ser um dos requisitos.
+
+Donwload: https://www.joomlacontenteditor.net/downloads/editor/core/latest?catid=130
+Instalação: https://www.joomlacontenteditor.net/support/installation/editor
