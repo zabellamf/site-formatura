@@ -25,3 +25,7 @@ Para edicao do artigo utilizamos o JCE Editor por ser um dos requisitos.
 
 Donwload: https://www.joomlacontenteditor.net/downloads/editor/core/latest?catid=130
 Instalação: https://www.joomlacontenteditor.net/support/installation/editor
+
+# Enquete
+
+Para fazer a enquete foi necessario utilizar o plugin SP Polls.
