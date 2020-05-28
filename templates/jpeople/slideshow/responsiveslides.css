@@ -8,8 +8,8 @@
 .callbacks{position:relative;list-style:none;overflow:hidden;width:100%;padding:0;margin:0}
 .callbacks li{position:absolute;width:100%;left:0;top:0}
 .callbacks img{display:block;position:relative;z-index:1;height:auto;width:100%;border:0}
-.callbacks .caption {color: #fff;font-size: 26px;left: 6%;line-height: 350px;position: absolute;text-shadow: 0 0 1px #555;z-index: 2; font-family: Open Sans;}
-.callbacks .caption a{text-decoration: underline; color:#fff;}
+.callbacks .caption {color: #fff;font-size: 32px;left: 6%;line-height: 350px;position: absolute; text-shadow: 0 0 3px #555;z-index: 2; font-family: Open Sans; font-weight: bold !important}
+.callbacks .caption a{text-decoration: underline; color:#fff; text-}
 .callbacks .caption a:hover{text-decoration:none;}
 .callbacks .caption a:active{transform:translate(0px,5px);-webkit-transform:translate(0px,5px);border-bottom:5px solid #333;transition:all .1s;-webkit-transition:all .1s;background-color:#444}
 .callbacks_nav{position:absolute;-webkit-tap-highlight-color:rgba(0,0,0,0);top:50%;left:6px;opacity:1;z-index:3;text-indent:-9999px;overflow:hidden;text-decoration:none;height:35px;width:37px; background:transparent url(next.png) no-repeat left top;margin-top:-22px}
