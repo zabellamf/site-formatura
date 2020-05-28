@@ -7,3 +7,4 @@
 2020-05-25T23:18:53+00:00	INFO 172.18.0.1	joomlafailure	Nome de usuário e senha incorretos ou você ainda não possui uma conta.
 2020-05-25T23:26:53+00:00	INFO 172.18.0.1	joomlafailure	Nome de usuário e senha incorretos ou você ainda não possui uma conta.
 2020-05-27T00:17:01+00:00	INFO 172.18.0.1	joomlafailure	Nome de usuário e senha incorretos ou você ainda não possui uma conta.
+2020-05-27T22:52:50+00:00	INFO 172.18.0.1	joomlafailure	Nome de usuário e senha incorretos ou você ainda não possui uma conta.

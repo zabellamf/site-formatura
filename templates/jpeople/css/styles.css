@@ -21,7 +21,7 @@ h2 { font-family: var(--text-family) !important; }
 h2.item-page-title a, .leading-0 a, .page-header h2 a:link , h1, h2, h3, h4, h2 a:link, h2 a:visited{ padding-top: 22px; color:var(--text-color);}
 a:link, a:visited  {}
 a:hover { text-decoration: underline; color: #666; background:none;}
-.logo-container { position:relative; max-width:100%; max-height:auto; float:left;}
+.logo-container { position:relative; max-width:100%; max-height:auto; float:left; top: 30px;}
 .logo img {width:100%; height:auto; margin-top: 6px;}
 .logo img:hover {opacity:0.6;}
 .logo a {color:var(--text-color); text-decoration:none; font-size:56px;}
