@@ -29,3 +29,7 @@ Instalação: https://www.joomlacontenteditor.net/support/installation/editor
 # Enquete
 
 Para fazer a enquete foi necessario utilizar o plugin SP Polls.
+
+# Galeria de Fotos
+
+Usamos o plugin Balbooa Joomla Gallery  inves do plugin JoomGalery pois este nao estava instalando de forma alguma. E encontramos esse que é bem lindo.
